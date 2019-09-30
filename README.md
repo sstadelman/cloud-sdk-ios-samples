@@ -1,7 +1,7 @@
 # SAP Cloud Platform SDK for iOS - Sample Apps
 
 ## Description
-This repository hosts a collection of *SAP Cloud Platform SDK for iOS* sample apps demonstrating various components and features of the SDK in the context of bigger apps.
+This repository hosts a collection of *SAP Cloud Platform SDK for iOS* sample apps demonstrating various components and features of the SDK.
 
 The [SAP Cloud Platform SDK for iOS](https://help.sap.com/viewer/p/SAP_CLOUD_PLATFORM_SDK_FOR_IOS) is based on the Apple Swift programming language, which emphasizes developer efficiency and ease of use when developing apps in the Xcode IDE. 
 It supplements the Swift SDK, and does not replace it. 
